@@ -1,1 +1,4 @@
-# leetcode-notes
+# leetcode 刷题笔记
+### 数据结构
+1.链表
+  * 160.链表相交
